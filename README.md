@@ -23,25 +23,18 @@ MENTOR: NEELA SANTHOSH KUMAR
 
 1.For the Server side it has the backend packages like -
 
-Node.js
-
-Express.js(CORS middleware)
-
-Socket.io
-
-Nodemon
+- Node.js
+- Express.js(CORS middleware)
+- Socket.io
+- Nodemon
 
 2.For the Client side -
 
-React
-
-React-router
-
-React-emoji
-
-Query-string
-
-Socket.io Client
+- React
+- React-router
+- React-emoji
+- Query-string
+- Socket.io Client
 
 ## Setting up the server-side
 
